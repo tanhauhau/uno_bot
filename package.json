@@ -1,0 +1,14 @@
+{
+  "name": "uno_bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/tanhauhau/uno_bot.git",
+  "author": "Tan Li Hau <lhtan93@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^6.2.0",
+    "invariant": "^2.2.4",
+    "lodash": "^4.17.11",
+    "telegraf": "^3.25.5"
+  }
+}

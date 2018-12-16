@@ -1,0 +1,580 @@
+[
+  {
+    "id": 0,
+    "qty": 1,
+    "type": "NORMAL",
+    "color": "BLUE",
+    "value": 0,
+    "sticker": {
+      "enabled": "CAADBAAD2QEAAl9XmQABKp6Tbd0qRv8C",
+      "disabled": "CAADBAADRQIAAl9XmQAB8F2BTWYUGiMC"
+    }
+  },
+  {
+    "id": 1,
+    "qty": 2,
+    "type": "NORMAL",
+    "color": "BLUE",
+    "value": 1,
+    "sticker": {
+      "enabled": "CAADBAAD2wEAAl9XmQAB5bj5fwVc2g4C",
+      "disabled": "CAADBAADRwIAAl9XmQABf2cQuuMIHTQC"
+    }
+  },
+  {
+    "id": 2,
+    "qty": 2,
+    "type": "NORMAL",
+    "color": "BLUE",
+    "value": 2,
+    "sticker": {
+      "enabled": "CAADBAAD3QEAAl9XmQABBXuSQXaT_nMC",
+      "disabled": "CAADBAADSQIAAl9XmQABfhrjYCduSAABAg"
+    }
+  },
+  {
+    "id": 3,
+    "qty": 2,
+    "type": "NORMAL",
+    "color": "BLUE",
+    "value": 3,
+    "sticker": {
+      "enabled": "CAADBAAD3wEAAl9XmQABUCV1h0Ng-7oC",
+      "disabled": "CAADBAADSwIAAl9XmQAByCUO9Vyd_ZgC"
+    }
+  },
+  {
+    "id": 4,
+    "qty": 2,
+    "type": "NORMAL",
+    "color": "BLUE",
+    "value": 4,
+    "sticker": {
+      "enabled": "CAADBAAD4QEAAl9XmQAB6NUj-HXr2P8C",
+      "disabled": "CAADBAADTQIAAl9XmQABI5kdpoSfErEC"
+    }
+  },
+  {
+    "id": 5,
+    "qty": 2,
+    "type": "NORMAL",
+    "color": "BLUE",
+    "value": 5,
+    "sticker": {
+      "enabled": "CAADBAAD4wEAAl9XmQAC3-oPha7s2gI",
+      "disabled": "CAADBAADTwIAAl9XmQABI3wMLzP_J7EC"
+    }
+  },
+  {
+    "id": 6,
+    "qty": 2,
+    "type": "NORMAL",
+    "color": "BLUE",
+    "value": 6,
+    "sticker": {
+      "enabled": "CAADBAAD5QEAAl9XmQAB8DKFNTW-DoIC",
+      "disabled": "CAADBAADUQIAAl9XmQABv35eqFpp188C"
+    }
+  },
+  {
+    "id": 7,
+    "qty": 2,
+    "type": "NORMAL",
+    "color": "BLUE",
+    "value": 7,
+    "sticker": {
+      "enabled": "CAADBAAD5wEAAl9XmQABTgQJ6KKdX1oC",
+      "disabled": "CAADBAADUwIAAl9XmQABv8VaivrtncwC"
+    }
+  },
+  {
+    "id": 8,
+    "qty": 2,
+    "type": "NORMAL",
+    "color": "BLUE",
+    "value": 8,
+    "sticker": {
+      "enabled": "CAADBAAD6QEAAl9XmQAB5iq4s6o8Cd4C",
+      "disabled": "CAADBAADVQIAAl9XmQABfIVG-G0vzXQC"
+    }
+  },
+  {
+    "id": 9,
+    "qty": 2,
+    "type": "NORMAL",
+    "color": "BLUE",
+    "value": 9,
+    "sticker": {
+      "enabled": "CAADBAAD6wEAAl9XmQAB77pfmc7VVooC",
+      "disabled": "CAADBAADVwIAAl9XmQABlwJidASr4tcC"
+    }
+  },
+  {
+    "id": 10,
+    "qty": 2,
+    "type": "PLUSTWO",
+    "color": "BLUE",
+    "sticker": {
+      "enabled": "CAADBAAD7QEAAl9XmQABnVEYPZ-qrxMC",
+      "disabled": "CAADBAADWQIAAl9XmQABUvg7A1yu83YC"
+    }
+  },
+  {
+    "id": 11,
+    "qty": 2,
+    "type": "REVERSE",
+    "color": "BLUE",
+    "sticker": {
+      "enabled": "CAADBAAD7wEAAl9XmQABYwGXOd-V8zUC",
+      "disabled": "CAADBAADWwIAAl9XmQAB0S3_MOBBCX8C"
+    }
+  },
+  {
+    "id": 12,
+    "qty": 2,
+    "type": "SKIP",
+    "color": "BLUE",
+    "sticker": {
+      "enabled": "CAADBAAD8QEAAl9XmQABwH9JLP2PNicC",
+      "disabled": "CAADBAADXQIAAl9XmQABc7AYk0bGSHoC"
+    }
+  },
+  {
+    "id": 13,
+    "qty": 4,
+    "type": "WILD",
+    "sticker": {
+      "enabled": "CAADBAAD8wEAAl9XmQAByOY26RUBPWwC",
+      "disabled": "CAADBAADXwIAAl9XmQAB-Fh2K0gkRiIC"
+    }
+  },
+  {
+    "id": 14,
+    "qty": 4,
+    "type": "PLUSFOUR",
+    "sticker": {
+      "enabled": "CAADBAAD9QEAAl9XmQAB1zoAAWVAoFZJAg",
+      "disabled": "CAADBAADYQIAAl9XmQAB1sfTwlmgqpMC"
+    }
+  },
+  {
+    "id": 15,
+    "qty": 1,
+    "type": "NORMAL",
+    "color": "GREEN",
+    "value": 0,
+    "sticker": {
+      "enabled": "CAADBAAD9wEAAl9XmQAB-5vgrDVg8wUC",
+      "disabled": "CAADBAADYwIAAl9XmQABv3PBc40gZTgC"
+    }
+  },
+  {
+    "id": 16,
+    "qty": 2,
+    "type": "NORMAL",
+    "color": "GREEN",
+    "value": 1,
+    "sticker": {
+      "enabled": "CAADBAAD-QEAAl9XmQABVTUhvvmqrPQC",
+      "disabled": "CAADBAADZQIAAl9XmQAB9kdwh5h3bmQC"
+    }
+  },
+  {
+    "id": 17,
+    "qty": 2,
+    "type": "NORMAL",
+    "color": "GREEN",
+    "value": 2,
+    "sticker": {
+      "enabled": "CAADBAAD-wEAAl9XmQABw1-UJ-1W0nQC",
+      "disabled": "CAADBAADZwIAAl9XmQABwdeLvL2eaY0C"
+    }
+  },
+  {
+    "id": 18,
+    "qty": 2,
+    "type": "NORMAL",
+    "color": "GREEN",
+    "value": 3,
+    "sticker": {
+      "enabled": "CAADBAAD_QEAAl9XmQABsFMUkikjT2oC",
+      "disabled": "CAADBAADaQIAAl9XmQABWmRpyZjHDfQC"
+    }
+  },
+  {
+    "id": 19,
+    "qty": 2,
+    "type": "NORMAL",
+    "color": "GREEN",
+    "value": 4,
+    "sticker": {
+      "enabled": "CAADBAAD_wEAAl9XmQABARICqk9L7OAC",
+      "disabled": "CAADBAADawIAAl9XmQABdysSxKkKvCsC"
+    }
+  },
+  {
+    "id": 20,
+    "qty": 2,
+    "type": "NORMAL",
+    "color": "GREEN",
+    "value": 5,
+    "sticker": {
+      "enabled": "CAADBAADAQIAAl9XmQABjdsDeZ1YX98C",
+      "disabled": "CAADBAADbQIAAl9XmQABjm8KIL0xCJwC"
+    }
+  },
+  {
+    "id": 21,
+    "qty": 2,
+    "type": "NORMAL",
+    "color": "GREEN",
+    "value": 6,
+    "sticker": {
+      "enabled": "CAADBAADAwIAAl9XmQABWiQPNJMNV30C",
+      "disabled": "CAADBAADbwIAAl9XmQABKThhTEZyxpkC"
+    }
+  },
+  {
+    "id": 22,
+    "qty": 2,
+    "type": "NORMAL",
+    "color": "GREEN",
+    "value": 7,
+    "sticker": {
+      "enabled": "CAADBAADBQIAAl9XmQABg2y0wojRiwYC",
+      "disabled": "CAADBAADcQIAAl9XmQABHv8ruA1RCxIC"
+    }
+  },
+  {
+    "id": 23,
+    "qty": 2,
+    "type": "NORMAL",
+    "color": "GREEN",
+    "value": 8,
+    "sticker": {
+      "enabled": "CAADBAADBwIAAl9XmQABp1q0U0WY-4EC",
+      "disabled": "CAADBAADcwIAAl9XmQAB9uqZcjcVmbgC"
+    }
+  },
+  {
+    "id": 24,
+    "qty": 2,
+    "type": "NORMAL",
+    "color": "GREEN",
+    "value": 9,
+    "sticker": {
+      "enabled": "CAADBAADCQIAAl9XmQABzgzj3YcM5bcC",
+      "disabled": "CAADBAADdQIAAl9XmQABq8GKEzJPFD0C"
+    }
+  },
+  {
+    "id": 25,
+    "qty": 2,
+    "type": "PLUSTWO",
+    "color": "GREEN",
+    "sticker": {
+      "enabled": "CAADBAADCwIAAl9XmQABVoNOrhqZR1cC",
+      "disabled": "CAADBAADdwIAAl9XmQABZ5RSCVoW2SMC"
+    }
+  },
+  {
+    "id": 26,
+    "qty": 2,
+    "type": "REVERSE",
+    "color": "GREEN",
+    "sticker": {
+      "enabled": "CAADBAADDQIAAl9XmQABTGKpgkt738kC",
+      "disabled": "CAADBAADeQIAAl9XmQABPXHdyVcJUhIC"
+    }
+  },
+  {
+    "id": 27,
+    "qty": 2,
+    "type": "SKIP",
+    "color": "GREEN",
+    "sticker": {
+      "enabled": "CAADBAADDwIAAl9XmQAB5_oQV8Ub2EIC",
+      "disabled": "CAADBAADewIAAl9XmQABTuQqoD8armEC"
+    }
+  },
+  {
+    "id": 28,
+    "qty": 1,
+    "type": "NORMAL",
+    "color": "RED",
+    "value": 0,
+    "sticker": {
+      "enabled": "CAADBAADEQIAAl9XmQAByvWrYE_3Lv4C",
+      "disabled": "CAADBAADfQIAAl9XmQABGQINp0Xq70gC"
+    }
+  },
+  {
+    "id": 29,
+    "qty": 2,
+    "type": "NORMAL",
+    "color": "RED",
+    "value": 1,
+    "sticker": {
+      "enabled": "CAADBAADEwIAAl9XmQAB_-qbdmoqxREC",
+      "disabled": "CAADBAADfwIAAl9XmQABbSzzA-oXqA8C"
+    }
+  },
+  {
+    "id": 30,
+    "qty": 2,
+    "type": "NORMAL",
+    "color": "RED",
+    "value": 2,
+    "sticker": {
+      "enabled": "CAADBAADFQIAAl9XmQAB0K5kknjA34AC",
+      "disabled": "CAADBAADgQIAAl9XmQABrr8xVNErvPUC"
+    }
+  },
+  {
+    "id": 31,
+    "qty": 2,
+    "type": "NORMAL",
+    "color": "RED",
+    "value": 3,
+    "sticker": {
+      "enabled": "CAADBAADFwIAAl9XmQABXh1lj2vqYkcC",
+      "disabled": "CAADBAADgwIAAl9XmQABBRY8MBWexokC"
+    }
+  },
+  {
+    "id": 32,
+    "qty": 2,
+    "type": "NORMAL",
+    "color": "RED",
+    "value": 4,
+    "sticker": {
+      "enabled": "CAADBAADGQIAAl9XmQABO1VFssJHdygC",
+      "disabled": "CAADBAADhQIAAl9XmQAB2Rc0Z8K3nvsC"
+    }
+  },
+  {
+    "id": 33,
+    "qty": 2,
+    "type": "NORMAL",
+    "color": "RED",
+    "value": 5,
+    "sticker": {
+      "enabled": "CAADBAADGwIAAl9XmQABdbNG_Vfj1CQC",
+      "disabled": "CAADBAADhwIAAl9XmQAB7HaY7bvSNiEC"
+    }
+  },
+  {
+    "id": 34,
+    "qty": 2,
+    "type": "NORMAL",
+    "color": "RED",
+    "value": 6,
+    "sticker": {
+      "enabled": "CAADBAADHQIAAl9XmQABfIUs9dXsSFIC",
+      "disabled": "CAADBAADiQIAAl9XmQABtg__2vramQUC"
+    }
+  },
+  {
+    "id": 35,
+    "qty": 2,
+    "type": "NORMAL",
+    "color": "RED",
+    "value": 7,
+    "sticker": {
+      "enabled": "CAADBAADHwIAAl9XmQABFZwqNUSkqpwC",
+      "disabled": "CAADBAADiwIAAl9XmQABl2gLcOWBc7UC"
+    }
+  },
+  {
+    "id": 36,
+    "qty": 2,
+    "type": "NORMAL",
+    "color": "RED",
+    "value": 8,
+    "sticker": {
+      "enabled": "CAADBAADIQIAAl9XmQABIV3s0K28yjoC",
+      "disabled": "CAADBAADjQIAAl9XmQABpAjmlEVkJfAC"
+    }
+  },
+  {
+    "id": 37,
+    "qty": 2,
+    "type": "NORMAL",
+    "color": "RED",
+    "value": 9,
+    "sticker": {
+      "enabled": "CAADBAADIwIAAl9XmQABzeBgZFGsaaoC",
+      "disabled": "CAADBAADjwIAAl9XmQAB_lkum5r_QoEC"
+    }
+  },
+  {
+    "id": 38,
+    "qty": 2,
+    "type": "PLUSTWO",
+    "color": "RED",
+    "sticker": {
+      "enabled": "CAADBAADJQIAAl9XmQABmbxtczadnFYC",
+      "disabled": "CAADBAADkQIAAl9XmQABdnZXYLet-n8C"
+    }
+  },
+  {
+    "id": 39,
+    "qty": 2,
+    "type": "REVERSE",
+    "color": "RED",
+    "sticker": {
+      "enabled": "CAADBAADJwIAAl9XmQABmsuxL156FWYC",
+      "disabled": "CAADBAADkwIAAl9XmQABAkfE9JbvipsC"
+    }
+  },
+  {
+    "id": 40,
+    "qty": 2,
+    "type": "SKIP",
+    "color": "RED",
+    "sticker": {
+      "enabled": "CAADBAADKQIAAl9XmQABaa1A8GBwbt0C",
+      "disabled": "CAADBAADlQIAAl9XmQABnna_S2IFXmwC"
+    }
+  },
+  {
+    "id": 41,
+    "qty": 1,
+    "type": "NORMAL",
+    "color": "ORANGE",
+    "value": 0,
+    "sticker": {
+      "enabled": "CAADBAADKwIAAl9XmQABtZoAAdg-bCHPAg",
+      "disabled": "CAADBAADlwIAAl9XmQAC5qVGyc5GigI"
+    }
+  },
+  {
+    "id": 42,
+    "qty": 2,
+    "type": "NORMAL",
+    "color": "ORANGE",
+    "value": 1,
+    "sticker": {
+      "enabled": "CAADBAADLQIAAl9XmQAB6jQgo7khEI4C",
+      "disabled": "CAADBAADmQIAAl9XmQABgf9Nvgttj5MC"
+    }
+  },
+  {
+    "id": 43,
+    "qty": 2,
+    "type": "NORMAL",
+    "color": "ORANGE",
+    "value": 2,
+    "sticker": {
+      "enabled": "CAADBAADLwIAAl9XmQAB-LueO6wQIgQC",
+      "disabled": "CAADBAADmwIAAl9XmQAB1ZmVCcScKpgC"
+    }
+  },
+  {
+    "id": 44,
+    "qty": 2,
+    "type": "NORMAL",
+    "color": "ORANGE",
+    "value": 3,
+    "sticker": {
+      "enabled": "CAADBAADMQIAAl9XmQABQUNNEzK6THoC",
+      "disabled": "CAADBAADnQIAAl9XmQABp2o7_GGUI_sC"
+    }
+  },
+  {
+    "id": 45,
+    "qty": 2,
+    "type": "NORMAL",
+    "color": "ORANGE",
+    "value": 4,
+    "sticker": {
+      "enabled": "CAADBAADMwIAAl9XmQABeyDqiLhqsg0C",
+      "disabled": "CAADBAADnwIAAl9XmQABJsXhDaQGt-UC"
+    }
+  },
+  {
+    "id": 46,
+    "qty": 2,
+    "type": "NORMAL",
+    "color": "ORANGE",
+    "value": 5,
+    "sticker": {
+      "enabled": "CAADBAADNQIAAl9XmQAB8iImMyPhPi4C",
+      "disabled": "CAADBAADoQIAAl9XmQAB9nr0Jjz88fIC"
+    }
+  },
+  {
+    "id": 47,
+    "qty": 2,
+    "type": "NORMAL",
+    "color": "ORANGE",
+    "value": 6,
+    "sticker": {
+      "enabled": "CAADBAADNwIAAl9XmQAB_xPH7md--IcC",
+      "disabled": "CAADBAADowIAAl9XmQABmDnwabqEYPwC"
+    }
+  },
+  {
+    "id": 48,
+    "qty": 2,
+    "type": "NORMAL",
+    "color": "ORANGE",
+    "value": 7,
+    "sticker": {
+      "enabled": "CAADBAADOQIAAl9XmQABzyuqkiOirvwC",
+      "disabled": "CAADBAADpQIAAl9XmQABWMcK1VkTrosC"
+    }
+  },
+  {
+    "id": 49,
+    "qty": 2,
+    "type": "NORMAL",
+    "color": "ORANGE",
+    "value": 8,
+    "sticker": {
+      "enabled": "CAADBAADOwIAAl9XmQAB14i-F8CYtHsC",
+      "disabled": "CAADBAADpwIAAl9XmQABddI9S-qwEgkC"
+    }
+  },
+  {
+    "id": 50,
+    "qty": 2,
+    "type": "NORMAL",
+    "color": "ORANGE",
+    "value": 9,
+    "sticker": {
+      "enabled": "CAADBAADPQIAAl9XmQABhv6KZer0EjgC",
+      "disabled": "CAADBAADqQIAAl9XmQABldZxJrqo6CQC"
+    }
+  },
+  {
+    "id": 51,
+    "qty": 2,
+    "type": "PLUSTWO",
+    "color": "ORANGE",
+    "sticker": {
+      "enabled": "CAADBAADPwIAAl9XmQABa48roXANpLMC",
+      "disabled": "CAADBAADqwIAAl9XmQABnydlyv6KDRYC"
+    }
+  },
+  {
+    "id": 52,
+    "qty": 2,
+    "type": "REVERSE",
+    "color": "ORANGE",
+    "sticker": {
+      "enabled": "CAADBAADQQIAAl9XmQABCHpDm7MPbakC",
+      "disabled": "CAADBAADrQIAAl9XmQABIj_WmpD6Ig8C"
+    }
+  },
+  {
+    "id": 53,
+    "qty": 2,
+    "type": "SKIP",
+    "color": "ORANGE",
+    "sticker": {
+      "enabled": "CAADBAADQwIAAl9XmQABdZut2pbzKMcC",
+      "disabled": "CAADBAADrwIAAl9XmQABFUkpE3B8SVwC"
+    }
+  }
+]
