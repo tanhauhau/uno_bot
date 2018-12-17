@@ -1,4 +1,4 @@
-const { newShuffledDeck, getCardInfo } = require('./card');
+const { newShuffledDeck, getCardInfo } = require('./deck');
 const _ = require('lodash');
 
 class Game {
@@ -24,6 +24,20 @@ class Game {
       .shuffle()
       .values();
     this._decks = newShuffledDeck(this._players.length);
+  }
+
+  getPlayerCards(user) {
+    const playerIdx = _.indexOf(this._players, user.id);
+    const isPlayerTurn = this._decks.turn === playerIdx;
+    return this._decks.playerPiles[playerIdx].map(card => {
+      return {
+        type: 'sticker',
+        id: isPlayerTurn ? card.sticker.enabled : card.sticker.disabled,
+        sticker_file_id: isPlayerTurn
+          ? card.sticker.enabled
+          : card.sticker.disabled
+      };
+    });
   }
 }
 

@@ -39,9 +39,13 @@ bot.command('begin', async ctx => {
 });
 bot.command('end', async ctx => {
   games.endGame(ctx.chat.id);
-  ctx.reply('Game ended!');
+  await ctx.reply('Game ended!');
 });
-
+bot.on('inline_query', async ctx => {
+  await ctx.answerInlineQuery(
+    games.getGame(ctx.chat.id).getPlayerCards(ctx.from)
+  );
+});
 // bot.on('message', async ctx => {
 //   if (ctx.message.text === 'show_me_deck') {
 //     const deck = require('./game/result.json');
